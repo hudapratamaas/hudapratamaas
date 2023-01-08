@@ -18,11 +18,11 @@
 
 
 <h2 align="center">📊 GitHub Stats:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hudapratamaas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fanolans" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hudapratamaas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudapratamaas&theme=tokyonight&hide_border=true" alt="fanolans" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudapratamaas&theme=vue-dark&hide_border=true" alt="fanolans" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudapratamaas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudapratamaas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
 
 
 ---
